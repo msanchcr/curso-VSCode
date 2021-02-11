@@ -11,12 +11,11 @@
 
 // Crear un arreglo con los días de la semana
 
-
-
+const diasDemo = ['lunes', 'martes', 'miercoles', 'jueves', 'viernes', 'sabado', 'domingo'];
 
 
 
 // Objetivo final
 
-const diasDemo = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo'];
+// const diasDemo = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo'];
 
